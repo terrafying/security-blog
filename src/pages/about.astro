@@ -1,8 +1,15 @@
 ---
-import Layout from '../layouts/BlogPost.astro';
+import BlogPost from '../layouts/BlogPost.astro';
+
+const props = {
+	title: 'About',
+	description: 'About Erik Van Till - platform engineer, AI/LLM security researcher.',
+	pubDate: new Date('2026-09-18T12:00:00Z'),
+};
 ---
-<Layout title="About">
-	<div class="prose">
+
+<BlogPost {...props}>
+	<div>
 		<p>
 			I'm Erik Van Till - platform and infrastructure engineer (Apple,
 			ex-Cisco security, Brivo) working on AI/LLM security research in the
@@ -17,4 +24,4 @@ import Layout from '../layouts/BlogPost.astro';
 			GitHub, essays land here.
 		</p>
 	</div>
-</Layout>
+</BlogPost>
