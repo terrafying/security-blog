@@ -1,5 +1,5 @@
 ---
-title: Tireless search beats cleverness: a lab for auditing self-hosted AI
+title: "Tireless search beats cleverness: a lab for auditing self-hosted AI"
 description: "How a one-person audit lab runs pattern-first fan-out across self-hosted AI infrastructure, and what the first month found."
 pubDate: 22 Sep 2026
 ---
