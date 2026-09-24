@@ -85,3 +85,12 @@ lack the gate their siblings have)? What did the vendor fix, and was the
 fix complete? And does the deployed reality match the documented posture?
 Tireless coverage of the obvious beats cleverness - on surfaces too large
 for anyone to have covered.
+
+## Related work
+
+The method behind these three is [tireless search beats
+cleverness](/blog/tireless-search/). The patch-diff lane that pairs with it
+is [the Plex reconstruction](/blog/plex-undisclosed-fixes/), where
+undisclosed fixes were rebuilt by behavioral diff and a live test. PoC
+scripts from this round are collected at
+[github.com/terrafying/poc-library](https://github.com/terrafying/poc-library).

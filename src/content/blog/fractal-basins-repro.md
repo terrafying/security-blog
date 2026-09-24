@@ -123,6 +123,16 @@ Colab T4 notebook included (`colab/fractal_basins_colab.ipynb`).
 - The interesting question the paper leaves open: does the fractal boundary
   predict WHERE the model is wrong, not just that it wavers?
 
+## Related work
+
+The method here is the same one the security posts use, which is written up
+in [tireless search beats cleverness](/blog/tireless-search/): every claim
+verified against a running system, negatives recorded as faithfully as the
+findings. For the security side of the lab, start with
+[three live proofs](/blog/three-live-proofs/). Proof-of-concept scripts from
+the audit work are collected at
+[github.com/terrafying/poc-library](https://github.com/terrafying/poc-library).
+
 ## Credits
 
 Buehler's agent-lab methodology (autonomous computational labs) inspired the

@@ -66,6 +66,15 @@ Full decompilation diff is the follow-up.
   the pref-to-ffmpeg seam is the candidate RCE path and the decompiler work
   is pending.
 
+## Related work
+
+Same audit round as [three live proofs](/blog/three-live-proofs/), same
+rule: claims get verified against running instances of both versions, never
+asserted from code reading alone. The verification discipline is written up
+in [tireless search beats cleverness](/blog/tireless-search/). Scripts from
+the audit work live at
+[github.com/terrafying/poc-library](https://github.com/terrafying/poc-library).
+
 ## Disclosure
 
 Coordinated with Plex (security@plex.tv) per their disclosure policy. This

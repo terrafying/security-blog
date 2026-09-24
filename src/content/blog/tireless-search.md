@@ -100,3 +100,11 @@ and the ledger records what didn't work as faithfully as what did.
 The lab, findings, and every repro script are public:
 github.com/terrafying/fractal-basins-lab and the audit lab repos. Local
 instances only, coordinated disclosure only, detect-and-disclose only.
+
+## Related work
+
+What the method found: [three live proofs](/blog/three-live-proofs/) from
+the first audit round, and [the Plex patch
+reconstruction](/blog/plex-undisclosed-fixes/) for the closed-source side
+of the same discipline. PoC scripts are collected at
+[github.com/terrafying/poc-library](https://github.com/terrafying/poc-library).
