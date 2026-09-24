@@ -73,7 +73,7 @@ rule: claims get verified against running instances of both versions, never
 asserted from code reading alone. The verification discipline is written up
 in [tireless search beats cleverness](/blog/tireless-search/). Scripts from
 the audit work live at
-[github.com/terrafying/poc-library](https://github.com/terrafying/poc-library).
+[github.com/terrafying/pocolate](https://github.com/terrafying/pocolate).
 
 ## Disclosure
 

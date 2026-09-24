@@ -177,7 +177,7 @@ above had exactly one of.
   the ceiling is reachable without heroics.
 
 PoC scripts and the full findings for this round are collected at
-[github.com/terrafying/poc-library](https://github.com/terrafying/poc-library).
+[github.com/terrafying/pocolate](https://github.com/terrafying/pocolate).
 Related: [three live proofs](/blog/three-live-proofs/) from the same
 round, and the method behind both posts, [tireless search beats
 cleverness](/blog/tireless-search/).

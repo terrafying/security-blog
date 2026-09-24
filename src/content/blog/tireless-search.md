@@ -107,4 +107,4 @@ What the method found: [three live proofs](/blog/three-live-proofs/) from
 the first audit round, and [the Plex patch
 reconstruction](/blog/plex-undisclosed-fixes/) for the closed-source side
 of the same discipline. PoC scripts are collected at
-[github.com/terrafying/poc-library](https://github.com/terrafying/poc-library).
+[github.com/terrafying/pocolate](https://github.com/terrafying/pocolate).

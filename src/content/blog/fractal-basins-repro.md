@@ -131,7 +131,7 @@ verified against a running system, negatives recorded as faithfully as the
 findings. For the security side of the lab, start with
 [three live proofs](/blog/three-live-proofs/). Proof-of-concept scripts from
 the audit work are collected at
-[github.com/terrafying/poc-library](https://github.com/terrafying/poc-library).
+[github.com/terrafying/pocolate](https://github.com/terrafying/pocolate).
 
 ## Credits
 

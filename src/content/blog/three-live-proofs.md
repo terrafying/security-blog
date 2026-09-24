@@ -93,4 +93,4 @@ cleverness](/blog/tireless-search/). The patch-diff lane that pairs with it
 is [the Plex reconstruction](/blog/plex-undisclosed-fixes/), where
 undisclosed fixes were rebuilt by behavioral diff and a live test. PoC
 scripts from this round are collected at
-[github.com/terrafying/poc-library](https://github.com/terrafying/poc-library).
+[github.com/terrafying/pocolate](https://github.com/terrafying/pocolate).
