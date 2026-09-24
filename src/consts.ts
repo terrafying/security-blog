@@ -1,2 +1,2 @@
-export const SITE_TITLE = 'Erik Van Till';
-export const SITE_DESCRIPTION = 'Platform engineering, AI/LLM security research, and independent vulnerability reproduction. Detect-and-disclose only.';
+export const SITE_TITLE = 'Dead Code Diaries';
+export const SITE_DESCRIPTION = 'Self-hosted AI security, live-verified or honestly rebutted. Platform engineering and independent vulnerability reproduction by Erik Van Till. Detect-and-disclose only.';
